@@ -2,4 +2,3 @@ test files for Git video lessons.
 A new line in a file Git already knows about
 Another line to test looking at file differences
 Git is a version control system which prevenets us from having the "final doc" problem.
-This line is a change I will later want to git rid of by reverting to the previous version using checkout.
