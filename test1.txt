@@ -4,3 +4,4 @@ another line added locally but not pushed to remote.
 A line added on Github and later changed locally and on Github and merged.
 Line 5 added locally but not pushed to remote yet.
 Added this line (6) on branch 'devel'
+Also added this line (7) in branch devel but didn't merge with master locally.
