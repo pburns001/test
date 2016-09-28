@@ -2,3 +2,4 @@ My first git file in test.
 A line added locally
 another line added locally but not pushed to remote.
 A line added on Github and later changed locally and on Github and merged.
+Line 5 added locally but not pushed to remote yet.
